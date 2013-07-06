@@ -1,4 +1,4 @@
-Sikuli IDE 1.0.1<br /> developement branch
+Sikuli IDE 1.1<br /> developement branch
 ===========
 
 **Download of current versions** visit the official [**download page on Launchpad**](https://launchpad.net/sikuli/+download).<br />
