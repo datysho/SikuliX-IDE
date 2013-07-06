@@ -1,7 +1,7 @@
-Sikuli IDE 1.0.1<br /> Service Update end July 2013
+Sikuli IDE 1.0.1<br /> developement branch
 ===========
 
-**Download of current versions (1.0.0)** visit the official [**download page on Launchpad**](https://launchpad.net/sikuli/+download).<br />
+**Download of current versions** visit the official [**download page on Launchpad**](https://launchpad.net/sikuli/+download).<br />
 
 The IDE to edit and run Sikuli scripts (supported scripting languages Python/Jython).
 <br /><br />
@@ -17,9 +17,6 @@ This repo is **fully Maven**, so a fork of this repo can be directly used as pro
 It depends on [Sikuli API](https://github.com/RaiMan/SikuliX-API), [Sikuli Jython](https://github.com/RaiMan/SikuliX-Jython) and [Sikuli Setup](https://github.com/RaiMan/SikuliX-Setup).<br />
 [... click for more info about package production](https://github.com/RaiMan/SikuliX-IDE/wiki/Maven-support)
 <br /><br />
-The downloadable packages of Sikuli IDE contain everything needed <br />
-including a current version of [Sikuli API](https://github.com/RaiMan/SikuliX-API).
-
 **Roadmap**
  - **2013 July 6:** open a developement branch for Sikuli IDE 1.1
   - better support for images and usage of Sikuli features
